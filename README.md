@@ -1,0 +1,2 @@
+# Language
+Arkazia Language Files
