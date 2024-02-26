@@ -1,0 +1,30 @@
+{
+  "akazia.common.error_message": "§cAn error occurred: {%0}",
+
+  "arkazia.lobby.items.navigator": "§r§eNavigator",
+  "arkazia.lobby.items.navigator.lore": "§7Click to open the navigation menu",
+
+  "arkazia.lobby.items.sword": "§r§ePvP",
+  "arkazia.lobby.items.sword.lore": "§7Click to join PvP",
+
+  "arkazia.lobby.items.settings": "§r§eSettings",
+  "arkazia.lobby.items.settings.lore": "§7Click to open settings.",
+
+  "arkazia.session.load": "§7Loading session...",
+  "arkazia.session.loaded": "§aSession loaded successfully.",
+
+  "arkazia.form.language.title": "§eChoose Your Language",
+  "arkazia.form.language.content": "§7Please select your preferred language.\n",
+  "arkazia.form.language.requireDeco.title": "§eLogout Required",
+  "arkazia.form.language.requireDeco.content": "§7To apply the language §l§f[{%0}]§r§7, please restart your session.\n\n§c[!] Note: You will be disconnected if you close the form or press the button!\n",
+  "arkazia.form.language.requireDeco.button": "§cLogout",
+  "arkazia.form.language.requireDeco.kick": "§aYour language has been changed to §e§l[{%0}]§r§a, please reconnect to apply the changes.",
+
+  "arkazia.form.navigator.title": "§eNavigator",
+  "arkazia.form.navigator.content": "§7Select a server to join. Explore the various available options and dive into the adventure! Your journey starts here!",
+  "arkazia.form.navigator.button.faction": "§ePvP Faction\n§7Click to join the PvP Faction server.",
+  "arkazia.form.navigator.button.practice": "§ePractice\n§7Click to join the Practice server.",
+  "arkazia.form.navigator.button.uhc": "§eUHC\n§7Click to join the UHC server.",
+  "arkazia.form.navigator.button.loupgarou": "§eWerewolves\n§7Click to join the Werewolves server."
+
+}
