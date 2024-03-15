@@ -1,29 +1,25 @@
 {
   "akazia.common.error_message": "§cUne erreur est survenue: {%0}",
-
   "arkazia.lobby.items.navigator": "§r§eNavigateur",
-  "arkazia.lobby.items.navigator.lore": "§7Cliquez pour ouvrir le menu de navigation",
-
-  "arkazia.lobby.items.sword": "§r§ePvP",
-  "arkazia.lobby.items.sword.lore": "§7Cliquez pour aller pvp",
-
+  "arkazia.lobby.items.navigator.lore": "§7Cliquez ici pour ouvrir le menu de navigation",
+  "arkazia.lobby.items.cookie": "§r§eCookie Clicker",
+  "arkazia.lobby.items.cookie.lore": "§7Cliquez ici pour augmenter votre score de cookie clicker",
   "arkazia.lobby.items.settings": "§r§eParamètres",
-  "arkazia.lobby.items.settings.lore": "§7Cliquez pour ouvrir les paramètres.",
-
-  "arkazia.session.load": "§7Chargement de la session...",
-  "arkazia.session.loaded": "§aSession chargée avec succès.",
-
-  "arkazia.form.language.title": "§eChoisir votre langue",
-  "arkazia.form.language.content": "§7Veuillez choisir votre langue préférée.\n",
-  "arkazia.form.language.requireDeco.title": "§eDéconnexion Requise",
-  "arkazia.form.language.requireDeco.content": "§7Pour appliquer la langue §l§f[{%0}]§r§7, veuillez redémarrer votre session.\n\n§c[!] Attention, vous serez déconnecté si vous fermez le formulaire ou appuyez sur le bouton !\n",
-  "arkazia.form.language.requireDeco.button": "§cDéconnexion",
-  "arkazia.form.language.requireDeco.kick": "§aVotre langue a été changée §e§l[{%0}]§r§a, veuillez vous reconnecter pour appliquer les changements.",
-
-  "arkazia.form.navigator.title": "§eNavigateur",
+  "arkazia.lobby.items.settings.lore": "§7Cliquez ici pour ouvrir les paramètres.",
+  "arkazia.lobby.commands.leavesFFA.success": "§aVous avez été déconnecté du mode FFA.",
+  "arkazia.lobby.commands.leavesFFA.error": "§cImpossible d'exécuter cette commande en dehors du mode FFA.",
+  "arkazia.lobby.commands.spawn.success": "§aVous avez été téléporté au point de spawn !",
+  "arkazia.form.language.title": "§eChoix de la langue",
+  "arkazia.form.language.content": "§7Veuillez sélectionner votre langue préférée.\n",
+  "arkazia.form.language.requireDeco.title": "§eDéconnexion requise",
+  "arkazia.form.language.requireDeco.content": "§7Pour appliquer la langue §l§f[{%0}]§r§7, veuillez redémarrer votre session.\n\n§c§l[!]§r§c Attention, vous serez déconnecté si vous fermez le formulaire ou appuyez sur le bouton !\n",
+  "arkazia.form.language.requireDeco.button.deco": "§cDéconnexion",
+  "arkazia.form.language.requireDeco.button.cancel": "§aAnnuler",
+  "arkazia.form.language.requireDeco.message": "§aVotre langue a été modifiée avec succès en §e§l[{%0}]§r§a. §7Vous serez reconnecté au serveur dans §l5 secondes§r§7 pour appliquer les changements.",
+  "arkazia.form.navigator.title": "Serveur",
   "arkazia.form.navigator.content": "§7Sélectionnez un serveur auquel vous souhaitez vous connecter. Explorez les différentes options disponibles et plongez dans l'aventure ! Votre voyage commence ici !",
-  "arkazia.form.navigator.button.faction": "§ePvP Faction\n§7Cliquez pour rejoindre le serveur PvP Faction.",
-  "arkazia.form.navigator.button.practice": "§eEntraînement\n§7Cliquez pour rejoindre le serveur Entraînement.",
-  "arkazia.form.navigator.button.uhc": "§eUHC\n§7Cliquez pour rejoindre le serveur UHC.",
-  "arkazia.form.navigator.button.loupgarou": "§eLoup Garous\n§7Cliquez pour rejoindre le serveur Loup Garous."
+  "arkazia.form.navigator.button.faction": "§ePvP Faction\n§7Cliquez ici pour rejoindre le serveur PvP Faction.",
+  "arkazia.form.navigator.button.practice": "§eEntraînement\n§7Cliquez ici pour rejoindre le serveur Entraînement.",
+  "arkazia.form.navigator.button.uhc": "§eUHC\n§7Cliquez ici pour rejoindre le serveur UHC.",
+  "arkazia.form.navigator.button.loupgarou": "§eLoup Garous\n§7Cliquez ici pour rejoindre le serveur Loup Garous."
 }
