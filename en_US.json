@@ -1,5 +1,7 @@
 {
   "akazia.common.error_message": "§cAn error occurred: {%0}",
+  "akazia.common.error_message_unknown": "§cAn unknown error occurred.",
+  "akazia.common.feature_not_available": "§c§l[!] §r§cThis feature is not yet available !",
   "arkazia.lobby.items.navigator": "§r§eNavigator",
   "arkazia.lobby.items.navigator.lore": "§7Click here to open the navigation menu.",
   "arkazia.lobby.items.pinata": "§r§ePiñata Clicker",
@@ -21,5 +23,14 @@
   "arkazia.form.navigator.button.faction": "§ePvP Faction\n§7Click here to join the PvP Faction server.",
   "arkazia.form.navigator.button.practice": "§ePractice\n§7Click here to join the Practice server.",
   "arkazia.form.navigator.button.uhc": "§eUHC\n§7Click here to join the UHC server.",
-  "arkazia.form.navigator.button.loupgarou": "§eWerewolves\n§7Click here to join the Werewolves server."
+  "arkazia.form.navigator.button.loupgarou": "§eWerewolves\n§7Click here to join the Werewolves server.",
+  "arkazia.form.navigator.button.leave.queue": "§cLeave Queue",
+  "arkazia.matchmaking.error": "§cUnable to join matchmaking: {%0}",
+  "arkazia.matchmaking.error_unknown": "§cUnable to join matchmaking: an unknown error occurred.",
+  "arkazia.matchmaking.in_queue": "§6[§eMatchmaking§6] §fYour position in the queue: §g{%0}§7/§g{%1}",
+  "arkazia.matchmaking.leave": "§aYou have left the queue.",
+  "arkazia.matchmaking.state.1": "§fYour turn!",
+  "arkazia.matchmaking.state.2": "§fA suitable server has been found for you!",
+  "arkazia.matchmaking.state.3": "§fWe are redirecting you to the server",
+  "arkazia.matchmaking.state.4": "§fLand in sight!"
 }

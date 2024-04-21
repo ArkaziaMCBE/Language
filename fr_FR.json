@@ -1,5 +1,7 @@
 {
   "akazia.common.error_message": "§cUne erreur s'est produite : {%0}",
+  "akazia.common.error_message_unknown": "§cUne erreur inconnue s'est produite.",
+  "akazia.common.feature_not_available": "§c§l[!] §r§cCette fonctionnalité n'est pas encore disponible !",
   "arkazia.lobby.items.navigator": "§r§eNavigateur",
   "arkazia.lobby.items.navigator.lore": "§7Cliquez ici pour ouvrir le menu de navigation.",
   "arkazia.lobby.items.pinata": "§r§eClic Piñata",
@@ -21,5 +23,14 @@
   "arkazia.form.navigator.button.faction": "§ePvP Faction\n§7Cliquez ici pour rejoindre le serveur PvP Faction.",
   "arkazia.form.navigator.button.practice": "§eEntraînement\n§7Cliquez ici pour rejoindre le serveur Entraînement.",
   "arkazia.form.navigator.button.uhc": "§eUHC\n§7Cliquez ici pour rejoindre le serveur UHC.",
-  "arkazia.form.navigator.button.loupgarou": "§eLoups-Garous\n§7Cliquez ici pour rejoindre le serveur Loups-Garous."
+  "arkazia.form.navigator.button.loupgarou": "§eLoups-Garous\n§7Cliquez ici pour rejoindre le serveur Loups-Garous.",
+  "arkazia.form.navigator.button.leave.queue": "§cQuitter la file d'attente",
+  "arkazia.matchmaking.error": "§cImpossible de rejoindre le matchmaking : {%0}",
+  "arkazia.matchmaking.error_unknown": "§cImpossible de rejoindre le matchmaking : une erreur inconnue s'est produite.",
+  "arkazia.matchmaking.in_queue": "§6[§eMatchmaking§6] §fVotre position dans la file d'attente : §g{%0}§7/§g{%1}",
+  "arkazia.matchmaking.leave": "§cVous avez quitté la file d'attente.",
+  "arkazia.matchmaking.state.1": "§fA votre tour !",
+  "arkazia.matchmaking.state.2": "§fUn serveur approprié a été trouvé pour vous !",
+  "arkazia.matchmaking.state.3": "§fNous sommes en train de vous rediriger vers le serveur",
+  "arkazia.matchmaking.state.4": "§fTerre en vue !"
 }
